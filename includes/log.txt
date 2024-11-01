@@ -1,0 +1,136 @@
+10/28/2021 22:07:26 : activate
+10/28/2021 22:47:09 : http://wp.testing.com:8038/wp-content/plugins/validbot/includes/
+10/28/2021 22:47:10 : http://wp.testing.com:8038/wp-content/plugins/validbot/includes/
+10/28/2021 22:47:32 : http://wp.testing.com:8038/wp-content/plugins/validbot/includes/
+10/28/2021 22:47:33 : http://wp.testing.com:8038/wp-content/plugins/validbot/includes/
+10/28/2021 22:47:40 : http://wp.testing.com:8038/wp-content/plugins/validbot/includes/
+10/28/2021 22:47:40 : http://wp.testing.com:8038/wp-content/plugins/validbot/includes/
+10/28/2021 22:47:51 : /var/www/html/wordpress/app/wp-content/plugins/validbot/includes/ValidBot_Admin.php
+10/28/2021 22:47:51 : http://wp.testing.com:8038/wp-content/plugins/validbot/includes/
+10/28/2021 22:47:52 : /var/www/html/wordpress/app/wp-content/plugins/validbot/includes/ValidBot_Admin.php
+10/28/2021 22:47:52 : http://wp.testing.com:8038/wp-content/plugins/validbot/includes/
+10/29/2021 19:06:07 : asd
+10/29/2021 19:07:41 : sdf
+10/29/2021 19:07:41 : Valid
+10/29/2021 19:20:20 : asd
+10/29/2021 19:20:20 : Valid
+10/29/2021 19:33:39 : 123
+10/29/2021 19:33:39 : Valid
+10/29/2021 19:33:50 : aqswdefr
+10/29/2021 19:33:50 : Valid
+10/29/2021 20:37:23 : nmyuirtsdfcawe234##
+10/29/2021 20:37:23 : Valid
+10/29/2021 20:37:37 : nmyuirtsdfcawe234##
+10/29/2021 20:37:37 : Valid
+10/29/2021 20:43:24 : 6afeca8b8a0fbcd8f394617c5cc83626d
+10/29/2021 20:43:24 : Valid
+10/29/2021 20:45:46 : secret_1d62fd022b35d9aade96617c5d722dab3
+10/29/2021 20:45:46 : Valid
+10/29/2021 20:46:43 : vb_secret_b388cc3241e4f6b2533c617c5da63e7ca
+10/29/2021 20:46:43 : Valid
+10/29/2021 22:19:19 : vb_secret_da2b9b0f48fca5c0a8d7617c735f1c0e1
+10/29/2021 22:19:19 : Valid
+10/29/2021 22:26:59 : vb_secret_da2b9b0f48fca5c0a8d7617c735f1c0e1
+10/29/2021 22:26:59 : Valid
+10/29/2021 22:27:18 : vb_secret_da2b9b0f48fca5c0a8d7617c735f1c0e1
+10/29/2021 22:27:18 : Valid
+10/29/2021 22:27:18 : Array
+10/29/2021 22:27:37 : vb_secret_da2b9b0f48fca5c0a8d7617c735f1c0e1
+10/29/2021 22:27:37 : Valid
+10/29/2021 22:27:37 : Array
+10/29/2021 22:32:19 : asd
+10/29/2021 22:32:19 : Valid
+10/29/2021 22:32:19 : {"headers":{},"body":"Example","response":{"code":200,"message":"OK"},"cookies":[],"filename":null,"http_response":{"data":null,"headers":null,"status":null}}
+10/29/2021 22:32:53 : asdf
+10/29/2021 22:32:53 : Valid
+10/29/2021 22:32:53 : {"headers":{},"body":"No API Key Set","response":{"code":200,"message":"OK"},"cookies":[],"filename":null,"http_response":{"data":null,"headers":null,"status":null}}
+10/29/2021 22:38:48 : asd
+10/29/2021 22:38:48 : Valid
+10/29/2021 22:38:48 : {"headers":{},"body":"API Key Was Invalid","response":{"code":200,"message":"OK"},"cookies":[],"filename":null,"http_response":{"data":null,"headers":null,"status":null}}
+10/29/2021 22:39:02 : vb_secret_da2b9b0f48fca5c0a8d7617c735f1c0e1
+10/29/2021 22:39:02 : Valid
+10/29/2021 22:39:02 : {"headers":{},"body":"offsky@gmail.com","response":{"code":200,"message":"OK"},"cookies":[],"filename":null,"http_response":{"data":null,"headers":null,"status":null}}
+10/29/2021 22:40:46 : vb_secret_da2b9b0f48fca5c0a8d7617c735f1c0e1
+10/29/2021 22:40:46 : Valid
+10/29/2021 22:41:13 : vb_secret_da2b9b0f48fca5c0a8d7617c735f1c0e1
+10/29/2021 22:41:13 : Valid
+10/29/2021 22:41:40 : vb_secret_da2b9b0f48fca5c0a8d7617c735f1c0e1
+10/29/2021 22:41:40 : Valid
+10/29/2021 22:43:30 : 123123
+10/29/2021 22:43:30 : Valid
+10/29/2021 22:43:42 : asdasd
+10/29/2021 22:43:42 : Valid
+10/29/2021 22:43:47 : 
+10/29/2021 22:43:47 : Valid
+10/29/2021 22:46:42 : 
+10/29/2021 22:46:42 : Valid
+10/29/2021 22:46:44 : 
+10/29/2021 22:46:44 : Valid
+10/29/2021 22:46:49 : asdasd
+10/29/2021 22:46:49 : Valid
+10/29/2021 22:46:55 : asdas
+10/29/2021 22:46:55 : Valid
+10/29/2021 22:49:43 : asdas
+10/29/2021 22:49:43 : Valid
+10/29/2021 22:51:03 : asd
+10/29/2021 22:51:03 : Valid
+10/29/2021 22:51:12 : 
+10/29/2021 22:51:12 : Valid
+10/29/2021 22:51:14 : asd
+10/29/2021 22:51:14 : Valid
+10/29/2021 22:51:23 : xvb_secret_da2b9b0f48fca5c0a8d7617c735f1c0e1
+10/29/2021 22:51:23 : Valid
+10/29/2021 22:51:42 : vb_secret_dsa2b9b0f48fca5c0a8d7617c735f1c0e1
+10/29/2021 22:51:42 : Valid
+10/29/2021 22:51:47 : vb_secret_da2b9b0f48fca5c0a8d7617c735f1c0e1
+10/29/2021 22:51:47 : Valid
+10/29/2021 22:52:11 : vb_secret_da2b9b0f48fca5c0a8d7617c735f1c0e1
+10/29/2021 22:52:11 : Valid
+11/01/2021 19:51:12 : vb_secret_da2b9b0f48fca5c0a8d7617c735f1c0e1
+11/01/2021 19:51:12 : Valid
+11/01/2021 19:51:31 : vb_secret_da2b9b0f48fca5c0a8d7617c735f1c0e1
+11/01/2021 19:51:31 : Valid
+11/01/2021 19:51:47 : vb_secret_da2b9b0f48fca5c0a8d7617c735f1c0e1
+11/01/2021 19:51:47 : Valid
+11/01/2021 20:38:35 : vb_secret_f468aa1cdd31d32e47b561804fbd5f614
+11/01/2021 20:38:35 : Valid
+11/01/2021 20:39:12 : vb_secret_e76b43a44e50dd083fd26180504f7ad40
+11/01/2021 20:39:12 : Valid
+11/02/2021 20:47:11 : vb_runtests Valid
+11/02/2021 20:59:23 : vb_runtests Valid
+11/02/2021 20:59:23 : RUN TESTS
+11/02/2021 21:24:30 : No API Key Set
+11/02/2021 21:25:39 : No API Key Set
+11/02/2021 21:25:55 : No API Key Set
+11/02/2021 21:26:05 : No API Key Set
+11/02/2021 21:26:18 : 
+11/02/2021 21:28:11 : vb_secret_e76b43a44e50dd083fd26180504f7ad40
+11/02/2021 21:28:19 : No URL was specified
+11/02/2021 21:28:38 : {"id":null,"rerun":null}
+11/02/2021 21:29:11 : {"id":null,"rerun":null}
+11/02/2021 21:29:35 : {"id":"2f67074d40b8130313e56181adbf8045d","rerun":false}
+11/02/2021 21:30:17 : {"id":"2f67074d40b8130313e56181adbf8045d","rerun":true}
+11/02/2021 21:32:12 : {"id":"2f67074d40b8130313e56181adbf8045d","rerun":true}
+11/02/2021 21:32:53 : {"id":"2f67074d40b8130313e56181adbf8045d","rerun":true}
+11/02/2021 21:36:00 : {"id":"2f67074d40b8130313e56181adbf8045d","rerun":true}
+11/02/2021 21:36:29 : {"id":"2f67074d40b8130313e56181adbf8045d","rerun":true}
+11/02/2021 21:36:57 : {"id":"2f67074d40b8130313e56181adbf8045d","rerun":true}
+11/02/2021 22:05:41 : {"id":"2f67074d40b8130313e56181adbf8045d","rerun":true}
+11/02/2021 22:07:25 : {"id":"2f67074d40b8130313e56181adbf8045d","rerun":true}
+11/02/2021 22:10:00 : {"id":"2f67074d40b8130313e56181adbf8045d","rerun":true}
+11/02/2021 22:10:50 : {"id":"2f67074d40b8130313e56181adbf8045d","rerun":true}
+11/02/2021 22:11:43 : {"id":"2f67074d40b8130313e56181adbf8045d","rerun":true}
+11/04/2021 22:23:11 : {"id":"5be1cbf3177a9a28fc0e61845d4f2dbc0","rerun":false}
+11/04/2021 22:23:16 : {"id":"5be1cbf3177a9a28fc0e61845d4f2dbc0","rerun":true}
+11/04/2021 22:31:14 : {"id":"e612ffde27b5c57968b961845f32ed708","rerun":false}
+11/05/2021 17:14:04 : {"id":"f6abb20107b42cf5205c6185665d02ecb","rerun":false}
+11/05/2021 17:26:11 : {"id":"f6abb20107b42cf5205c6185665d02ecb","rerun":true}
+11/05/2021 17:30:47 : {"id":"f6abb20107b42cf5205c6185665d02ecb","rerun":true}
+11/05/2021 17:31:02 : {"id":"f6abb20107b42cf5205c6185665d02ecb","rerun":true}
+11/05/2021 17:32:25 : {"id":"f6abb20107b42cf5205c6185665d02ecb","rerun":true}
+11/05/2021 17:34:07 : {"id":"f6abb20107b42cf5205c6185665d02ecb","rerun":true}
+11/05/2021 17:34:27 : {"id":"f6abb20107b42cf5205c6185665d02ecb","rerun":true}
+11/05/2021 17:35:56 : {"id":"f6abb20107b42cf5205c6185665d02ecb","rerun":true}
+11/05/2021 17:36:31 : {"id":"f6abb20107b42cf5205c6185665d02ecb","rerun":true}
+11/05/2021 17:36:38 : {"id":"f6abb20107b42cf5205c6185665d02ecb","rerun":true}
+11/05/2021 17:36:59 : {"id":"f6abb20107b42cf5205c6185665d02ecb","rerun":true}
